@@ -70,3 +70,5 @@ The underlying dataset is a cleaned and preprocessed HR dataset representing a f
 Conclusion
 This project is a demonstration of how data storytelling in Power BI can elevate raw HR metrics into strategic decision-making tools. By centralizing employee insights and attrition trends into a single dashboard, organizations can reduce guesswork and take a proactive stance in employee engagement and retention.
 
+image link: https://github.com/haniyyahkhan67/HR-Analytics-Dashboard-in-Power-BI/blob/main/Snapshot%20of%20the%20dashboard.png
+
